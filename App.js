@@ -6,7 +6,7 @@ import AppLoading from "expo-app-loading";
 
 import StartGameScreen from "./screens/StartGameScreen";
 import GameScreen from "./screens/GameScreen";
-import Colors from "./constants/color";
+import Colors from "./constants/colors";
 import GameOverScreen from "./screens/GameOverScreen";
 
 export default function App() {
